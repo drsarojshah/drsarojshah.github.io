@@ -32,15 +32,12 @@ Classified E. coli DNA sequences using MATLAB with SVM, kNN, Naïve Bayes, and N
 ---
 
 ## 📫 Contact
-- Saroj Shah
+
 Saroj Shah
 185 Ridgefield Street, Albany, NY 12208
 📞 Phone: +1 (617) 955-5843
-
 📧 Email: engsarojshah@gmail.com
-
 🔗 LinkedIn: linkedin.com/in/saroj-s-763265226
-
 🌐 Portfolio: drsarojshah.github.io
 
 ---
